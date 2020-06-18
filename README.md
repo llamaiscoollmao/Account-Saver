@@ -4,9 +4,8 @@ Account Saver is an simple Python application that let's you store your account 
 
 ## Set up
 
-```Download the code & navigate to the folder, then run```
-<br />
-```python main.py```
+Installation help can be found here:
+https://github.com/llamaiscoollmao/Account-Saver/wiki/Get-started-working-with-Account-Saver
 
 ## Usage
 
